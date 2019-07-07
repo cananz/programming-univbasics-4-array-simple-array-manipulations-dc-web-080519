@@ -32,7 +32,7 @@ def using_concat(array1, array2)
 end
 
 #takes in two arguments, an Array and a new element to be added to the array, uses the .insert method to add the new element to the 4th index of the array.
-def using_instert(array, element)
+def using_insert(array, element)
   array.insert(4, element)
 end
 
